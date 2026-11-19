@@ -34,11 +34,7 @@ $$\Delta u_t = a + b\, g_t + \varepsilon_t$$
 | $b$ | **Okun coefficient**: change in unemployment for each extra point of growth |
 | $g^* = -a/b$ | Growth rate that keeps unemployment stable, a rough measure of potential growth |
 
-**Gap version** (United States):
 
-$$u_t - u^*_t = \beta\,(y_t - y^*_t) + \varepsilon_t$$
-
-linking the unemployment gap (actual minus natural rate) to the output gap (actual minus potential GDP).
 
 ## Data
 
